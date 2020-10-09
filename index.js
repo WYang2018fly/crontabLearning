@@ -1,0 +1,1 @@
+const usage = require('./src/crontab-usage');
